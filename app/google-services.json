@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "119322542508",
+    "firebase_url": "https://eattendance-c18ad.firebaseio.com",
+    "project_id": "eattendance-c18ad",
+    "storage_bucket": "eattendance-c18ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119322542508:android:11a855e18b3f7ffd",
+        "android_client_info": {
+          "package_name": "com.mef.cheangseng.eattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119322542508-7qvuulc151e9h6jao2ncs12frmeoj3np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mef.cheangseng.eattendance",
+            "certificate_hash": "4369842f022e71b56758757de9922cc47096d067"
+          }
+        },
+        {
+          "client_id": "119322542508-rabbravoi882e4or3m8fspj641811dnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01-adD4NBrPqKIRxfzzgsBkTLXSYAMc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119322542508-rabbravoi882e4or3m8fspj641811dnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
